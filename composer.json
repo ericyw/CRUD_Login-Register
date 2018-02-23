@@ -1,0 +1,15 @@
+{
+    "name": "CRUD",
+    "description": "Create, Read, Update, Delete, Login&Register, Sending Mail with SendGrid",
+    "type": "project",
+    "require": {
+        "sendgrid/sendgrid": "^5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yandong (Eric) Wang",
+            "email": "ericw.on.ca@gmail.com"
+        }
+    ]
+}
